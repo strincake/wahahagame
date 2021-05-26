@@ -431,7 +431,33 @@
   text-transform:none;
   visibility:hidden;
 }
-#u12_img {
+#u12 {
+  position:fixed;
+  right:0px;
+  bottom:0px;
+}
+#u12_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:957px;
+  height:407px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u12_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u13_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -439,23 +465,23 @@
   width:957px;
   height:407px;
 }
-#u12 {
+#u13 {
   border-width:0px;
   position:absolute;
-  left:213px;
-  top:2123px;
+  left:0px;
+  top:0px;
   width:957px;
   height:407px;
   display:flex;
 }
-#u12 .text {
+#u13 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u12_text {
+#u13_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
